@@ -9,6 +9,7 @@
 - Qurat ul Ain
 - Atena
 - Eli
+- Öykü
 
 ### About our data
 **Marine Acoustic Monitoring** – hydrophone recordings from the North Sea monitoring whale communication and ship noise.
