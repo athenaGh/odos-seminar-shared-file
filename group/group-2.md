@@ -46,4 +46,6 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 
 
 ### Ethical, legal or practical barriers
-...
+Ethical: Sharing exact locations of monitoring stations at sensitive sites
+Legal: Licence restrictions, such as non-commercial use only
+Practial barriers: Poor data quality and sensor malfunctions
