@@ -42,7 +42,7 @@ _Additional details (instruments, sampling rate, time period, file formats, appr
 
 | Platform (e.g. GitHub, GitLab) | Archiving & DOI (e.g. Zenodo, Software Heritage) | Software licence | Documentation / environment | Cost |
 |--------------------------------|--------------------------------------------------|------------------|-----------------------------|------|
-| GitHub | Zenodo for long-term archiving and a DOI for each software release | ... | ... | ... |
+| GitHub | Zenodo for long-term archiving and a DOI for each software release | MIT License | Markdown (.md) | Free |
 
 
 ### Ethical, legal or practical barriers
