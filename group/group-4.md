@@ -7,6 +7,8 @@
 ### Group members
 - Mehul Sanket
 - Siobhan Reddy
+- Bilgesu Kara
+- Victoria Filipovic
 
 ### About our data
 **Oral History Interviews** – 60 audio recordings of interviews with second-generation immigrants in Munich about neighbourhood change.
