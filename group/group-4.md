@@ -5,8 +5,8 @@
 **About the study:** The study analysed 60 interviews with second-generation immigrants in Munich about how their neighbourhoods have changed. It found that participants linked rising rents and the loss of familiar shops and meeting places to a growing sense of displacement, while still expressing a strong attachment to the neighbourhood and a sense of belonging to the city.
 
 ### Group members
-- ...
-- ...
+- Mehul Sanket
+- Siobhan Reddy
 
 ### About our data
 **Oral History Interviews** – 60 audio recordings of interviews with second-generation immigrants in Munich about neighbourhood change.
