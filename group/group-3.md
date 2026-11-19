@@ -39,7 +39,9 @@ _Additional details (recording locations, duration, sampling rate, file formats,
 
 | Repository | Why this repository | Access level (open / restricted / on request) | Licence | Cost of deposit |
 |------------|---------------------|-----------------------------------------------|---------|-----------------|
-| ... | ... | ... | ... | ... |
+| Ocean Networks Canada | Specific | on request | MIT License | Free |
+| Github | Public | Open | MIT Liecense | Free |
+| biorxiv | Public and Specific | Open | Craetive Comments | Free |
 
 ### Where we aim to publish
 
@@ -52,7 +54,7 @@ _Additional details (recording locations, duration, sampling rate, file formats,
 
 | Platform (e.g. GitHub, GitLab) | Archiving & DOI (e.g. Zenodo, Software Heritage) | Software licence | Documentation / environment | Cost |
 |--------------------------------|--------------------------------------------------|------------------|-----------------------------|------|
-| ... | ... | ... | ... | ... |
+| Github | Zenodo | MIT License | readme, jupyter notebook, docker file | Free |
 
 ### Ethical, legal or practical barriers
-...
+International waters, endangering the whales' lives by tracking them, intervening in the whales' habitats by tracking them, 
