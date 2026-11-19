@@ -17,23 +17,25 @@ _Additional details (interview length, language(s), transcripts, consent forms, 
 
 | Principle | What we will do |
 |-----------|-----------------|
-| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | F1. (meta)data are assigned a globally unique and persistent identifier: Register DOI F2. data are described with rich metadata (defined by R1 below) Date, Time of day, Speaker, Age, Location/Neighborhood of Munich, Country of origin, Occupation, Types of changes discussed, File type, Duration of Interview, Copyrights, Informed Consent. F3. metadata clearly and explicitly include the identifier of the data it describes DOI  .wav master audio file, an, a .docx transcript, and a .pdf signed legal release form F4. (meta)data are registered or indexed in a searchable resource:  PID - Zenodo (but with anonymous identities, ID code instead of names)|
-| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | A1. (meta)data are retrievable by their identifier using a standardized communications protocol A1.1 the protocol is open, free, and universally implementable HTTPS protocol ,A1.2 the protocol allows for an authentication and authorization procedure, where necessary - name/sensitive info protected . The descriptive metadata would be public access and media files will have protected access.A2. metadata are accessible, even when the data are no longer available Metadata stays published on Zonodo|
-| **Interoperable** (standard formats, shared vocabularies) | I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. File format: .wav (open, not compressed) interviews in German I2. (meta)data use vocabularies that follow FAIR principles Geography - map/definition of neighborhoods Munich Data Semantics for oral history I3. (meta)data include qualified references to other (meta)data  |
-| **Reusable** (clear licence, provenance, community standards) | R1. meta(data) are richly described with a plurality of accurate and relevant attributes Detailed metadata attributes R1.1. (meta)data are released with a clear and accessible data usage license CC license R1.2. (meta)data are associated with detailed provenance Maintain Interview records for each Interview .eg.Transcripts ,who is the interviewer ? When and where did the interviews take place? etc.R1.3. (meta)data meet domain-relevant community standards https://oralhistory.org/metadata/ descriptive metadata availablefile properties (length, format, …) information on informed consent of the interviewees Structural and preservational metadata related to audio files|
+| **Findable** (persistent identifiers, rich metadata, indexed in a searchable resource) | ... |
+| **Accessible** (retrievable via open protocols, metadata available even if data is restricted) | ... |
+| **Interoperable** (standard formats, shared vocabularies) | ... |
+| **Reusable** (clear licence, provenance, community standards) | ... |
 
 ### Where we will deposit the data
 
 | Repository | Why this repository | Access level (open / restricted / on request) | Licence | Cost of deposit |
 |------------|---------------------|-----------------------------------------------|---------|-----------------|
-| ... | ... | ... | ... | ... |
+| Zenodo | Zenodo is a free and open digital archive built by CERN and OpenAIRE, enabling researchers to share and preserve research output in any format | Open Access | CC BY-ND | 0 Euros |
 
 ### Where we aim to publish
 
 | Option | Open access route (gold / green / diamond / preprint) | Estimated cost (APC) | Notes |
 |--------|------------------------------------------------------|----------------------|-------|
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| Open Cultural Studies | Gold | 1050 Euro + VAT | Scholarly journal that explores the fields of Humanities, Social Sciences and Arts. |
+| Culture & History Digital Journal | Diamond | 0 Euro | The Journal aims to move beyond traditional, strictly chronological narratives and purely textual analysis. |
+| mediaTUM | Preprint | 0 Euro | Used to publish working papers, preprints, postprints, and research data while serving as TUM's in-house institutional repository. |
+| SocArxiv | Green | 0 Euro | Open archive of the social sciences, provides a free, non-profit, open access platform for social scientists to upload working papers, preprints, and published papers, with the option to link data and code. |
 
 ### Where we will put our software / code
 
